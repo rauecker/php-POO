@@ -1,0 +1,36 @@
+1 - Abstração 
+
+Aqui imaginamos o que o objeto irá realizar e quais serão suas respectivas caracteristicas.
+temos que tomar cuidado sempre para não haver conflito com outros objetos.
+
+Tipo de objeto -> pessoa
+
+Possível conflito -> criar o objeto pessoa e o objeto individuo 
+
+2 - Encapsulamento
+
+Nesse pilar deixamos nossos objetos mais seguros, por meio de getter e setter.
+Isso irá fazer com que não possamos alterar nosso objeto por meios de variavies por exemplo.
+
+Criar funções para recuperar nossas informações é essencial
+
+Deixar nossas variaveis do objeto como "private"
+
+3 - Herança
+
+Como o nome é nem intuitivo, pois bem.
+
+Ela funciona quando temos um objeto disposto a herdar algumas caracteristicas de um objeto já criado.
+
+podemos ter um objeto "pessoa" e também o "funcionario"
+
+o funcionario pode herdar as variaveis da pessoa.
+
+4 - polimorfismo
+
+No polimorfismo herdamos alguma caracterisca e alteramos ela em um objeto especifico.
+
+Usamos para herdar algo que precisamos de um objeto já existente porém a aplicação no novo objeto é outra.
+
+
+
